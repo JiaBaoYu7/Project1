@@ -1,0 +1,25 @@
+
+USER STORIES:
+
+1.) As an elementary school guidance counselor, I want an objective way to evaluate student short term memory so that I can better identify learning problems.
+
+2.) As a therapist in a nursing home, I want a tool to test my Alzheimer patients’ memories so that I can observe their mental health.
+
+3.) As the adult child of an elderly parent, I want to monitor my father’s mental performance, so that I can be aware of early signs of dementia.  
+
+4.)  As a social service case worker, I want to evaluate the mental performance of children who live in environments with lead paint, so that I can get them medical and educational assistance if there is evidence of lead poisoning.
+
+5.)  As a neurobiologist studying memory, I want to monitor mental performance across a large population so that I can gain statistically sound data on ageing and short term memory loss (and get published).
+
+6.)    As a narcissistic parent who recieves validation through their child's success, I want to develop my child’s memory at an early age, so that he has a competitive edge against his peers in preschool.
+
+7.)  As a neurobilogist studying the effects of booze, I want to test the effects of Jack Daniels on the short term memory of undergraduates, so that I can get published.
+
+8.)  As an oncologist, I want to monitor the effects of chemotherapy on short term memory, so I can keep my patients fully informed of the effects of their treatment options.
+
+9.)  As Jane Goodall, I want to research the memories of chimpanzees and compare them to human performance, so that I can better understand the cognitive abilities of chimpanzees. 
+
+10.)  As neuro-marine-biologist studying the effects of hallucinogenic drugs on the cognitive abilities of common bottlenose dolphin (tursiops truncatus), I want to know the effects of psilocybin mushrooms (street name: shrooms, magic truffles) on the short term memory performance of marine mammals so that the sphere of human understand is pressed ever forward and dolphins can commune with the cosmos (it’s basic research).
+
+
+
